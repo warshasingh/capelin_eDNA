@@ -5,4 +5,4 @@ Manuscript titled 'Detection and distribution of the North Atlantic capelin (Mal
 
 Submitted to Environmental DNA journal
 
-The code for GLM models can be found in script GLM.R. The dataset used for this analysis is capelin_acoustic_eDNA.csv
+The code for GLM models can be found in script 'GLM.R'. The dataset used for this analysis is 'capelin_acoustic_eDNA.csv'.
